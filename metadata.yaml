@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Joel_Lehtonen
     - http://fi.wikipedia.org/wiki/Joel_Lehtonen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39261#Putkinotko
 gutenberg_issued: '2012-03-25'
 gutenberg_type: Text
 identifiers:
