@@ -1,0 +1,29 @@
+_repo: Putkinotko_39261
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Joel_Lehtonen
+    - http://fi.wikipedia.org/wiki/Joel_Lehtonen
+description: ''
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39261'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction'
+- !lcc 'PH'
+title: 'Putkinotko: Kuvaus laiskasta viinarokarista ja tuhmasta herrasta'
+url: http://www.gutenberg.org/ebooks/39261
